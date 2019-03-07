@@ -1,4 +1,4 @@
-[submodule "steem"]
-	path = steem
+[submodule "steem-js"]
+	path = steem-js
 	url = https://github.com/blocktradesdevs/steem-js.git
-	branch = sps-develop2
+    branch = sps-develop2
