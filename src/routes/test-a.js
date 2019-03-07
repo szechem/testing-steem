@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import fs from 'fs';
-import steem from '@steemit/steem-js';
+import steem from 'steem';
 
 const router = Router();
 
